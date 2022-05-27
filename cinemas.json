@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Metropolis",
+    "url": "https://metropolis-koeln.de/programm"
+  },
+  {
+    "name": "Weisshaus Kino",
+    "url": "https://www.weisshaus-kino.de/programm"
+  },
+  {
+    "name": "Lichtspiele Kalk",
+    "url": "https://www.lichtspiele-kalk.de/programm/"
+  },
+  {
+    "name": "Off Broadway",
+    "url": "https://www.off-broadway.de/programm"
+  },
+  {
+    "name": "Cinenova",
+    "url": "https://www.cinenova.de/#kinoprogramm"
+  },
+  {
+    "name": "Filmforum NRW",
+    "url": "https://filmforumnrw.de/programm.aspx"
+  },
+  {
+    "name": "Filmpalette",
+    "url": "http://www.filmpalette-koeln.de/"
+  },
+  {
+    "name": "ODEON",
+    "url": "https://www.odeon-koeln.de/"
+  }
+]
